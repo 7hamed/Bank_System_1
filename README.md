@@ -1,5 +1,5 @@
 # Bank Client Management System
-A simple console-based client management system in C++.
+A simple console-based bank client management system in C++.
 
 ## Features
   - View a list of all clients.
